@@ -1,0 +1,2 @@
+C:\BELSTU\Операционные Системы\lab12\x64\Debug\lab12.exe
+C:\BELSTU\Операционные Системы\lab12\x64\Debug\lab12.pdb

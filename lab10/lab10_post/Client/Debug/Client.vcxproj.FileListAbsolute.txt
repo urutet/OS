@@ -1,0 +1,4 @@
+C:\BELSTU\Операционные Системы\Client\Debug\Client.exe
+C:\BELSTU\Операционные Системы\Client\Debug\Client.pdb
+C:\BELSTU\Операционные Системы\lab10\lab10_post\Client\Debug\Client.exe
+C:\BELSTU\Операционные Системы\lab10\lab10_post\Client\Debug\Client.pdb

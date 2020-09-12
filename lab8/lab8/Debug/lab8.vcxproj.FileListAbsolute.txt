@@ -1,0 +1,2 @@
+C:\BELSTU\Операционные Системы\lab8\lab8\Debug\lab8.exe
+C:\BELSTU\Операционные Системы\lab8\lab8\Debug\lab8.pdb

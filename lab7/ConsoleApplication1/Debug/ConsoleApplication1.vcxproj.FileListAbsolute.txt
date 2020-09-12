@@ -1,0 +1,2 @@
+C:\BELSTU\Операционные Системы\lab7\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\BELSTU\Операционные Системы\lab7\ConsoleApplication1\Debug\ConsoleApplication1.pdb

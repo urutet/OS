@@ -1,0 +1,3 @@
+﻿  ConsoleApplication4.cpp
+C:\BELSTU\Операционные Системы\lab3\ConsoleApplication4\ConsoleApplication4.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ConsoleApplication4.vcxproj -> C:\BELSTU\Операционные Системы\lab3\ConsoleApplication1\Debug\ConsoleApplication4.exe

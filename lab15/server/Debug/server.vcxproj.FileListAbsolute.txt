@@ -1,0 +1,2 @@
+C:\BELSTU\Операционные Системы\lab15\server\Debug\server.exe
+C:\BELSTU\Операционные Системы\lab15\server\Debug\server.pdb

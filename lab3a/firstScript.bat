@@ -1,0 +1,1 @@
+start "C:\BELSTU\Операционные Системы\lab3a\" firstScript.vbs

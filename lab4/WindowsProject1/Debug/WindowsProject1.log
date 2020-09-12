@@ -1,0 +1,5 @@
+﻿  WindowsProject1.cpp
+C:\BELSTU\Операционные Системы\lab4\WindowsProject1\WindowsProject1.cpp(133,17): warning C4101: ps: неиспользованная локальная переменная
+C:\BELSTU\Операционные Системы\lab4\WindowsProject1\WindowsProject1.cpp(132,15): warning C4101: wmEvent: неиспользованная локальная переменная
+C:\BELSTU\Операционные Системы\lab4\WindowsProject1\WindowsProject1.cpp(132,9): warning C4101: wmId: неиспользованная локальная переменная
+  WindowsProject1.vcxproj -> C:\BELSTU\Операционные Системы\lab4\WindowsProject1\Debug\WindowsProject1.exe
